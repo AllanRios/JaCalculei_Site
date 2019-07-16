@@ -4,104 +4,107 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
 <url>
-  <loc>https://www.jacalculei.com.br</loc>
-  <lastmod>2019-03-26T21:26:26+00:00</lastmod>
+  <loc>https://www.jacalculei.com.br/</loc>
+  <lastmod>2019-06-07T19:56:10+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://www.jacalculei.com.br/index.html</loc>
-  <lastmod>2019-03-26T21:26:26+00:00</lastmod>
+  <loc>https://www.jacalculei.com.br/chatbot/</loc>
+  <lastmod>2019-06-07T19:56:10+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.jacalculei.com.br/abra-sua-empresa.html</loc>
-  <lastmod>2019-03-26T21:26:26+00:00</lastmod>
+  <loc>https://www.jacalculei.com.br/abra-sua-empresa/</loc>
+  <lastmod>2019-06-07T19:56:10+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.jacalculei.com.br/planos-e-custos.html</loc>
-  <lastmod>2019-03-26T21:26:27+00:00</lastmod>
+  <loc>https://www.jacalculei.com.br/planos-e-custos/</loc>
+  <lastmod>2019-06-07T19:56:10+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.jacalculei.com.br/advocacia.html</loc>
-  <lastmod>2019-03-26T21:26:26+00:00</lastmod>
+  <loc>https://www.jacalculei.com.br/advocacia/</loc>
+  <lastmod>2019-06-07T19:56:10+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.jacalculei.com.br/agencia-de-viagem.html</loc>
-  <lastmod>2019-03-26T21:26:26+00:00</lastmod>
+  <loc>https://www.jacalculei.com.br/agencia-de-viagem/</loc>
+  <lastmod>2019-06-07T19:56:10+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.jacalculei.com.br/arquitetura.html</loc>
-  <lastmod>2019-03-26T21:26:26+00:00</lastmod>
+  <loc>https://www.jacalculei.com.br/arquitetura/</loc>
+  <lastmod>2019-06-07T19:56:10+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.jacalculei.com.br/consultoria.html</loc>
-  <lastmod>2019-03-26T21:26:26+00:00</lastmod>
+  <loc>https://www.jacalculei.com.br/consultoria/</loc>
+  <lastmod>2019-06-07T19:56:10+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.jacalculei.com.br/engenharia.html</loc>
-  <lastmod>2019-03-26T21:26:26+00:00</lastmod>
+  <loc>https://www.jacalculei.com.br/engenharia/</loc>
+  <lastmod>2019-06-07T19:56:10+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.jacalculei.com.br/fisioterapia.html</loc>
-  <lastmod>2019-03-26T21:26:26+00:00</lastmod>
+  <loc>https://www.jacalculei.com.br/fisioterapia/</loc>
+  <lastmod>2019-06-07T19:56:10+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.jacalculei.com.br/jornalismo.html</loc>
-  <lastmod>2019-03-26T21:26:26+00:00</lastmod>
+  <loc>https://www.jacalculei.com.br/jornalismo/</loc>
+  <lastmod>2019-06-07T19:56:10+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.jacalculei.com.br/medicina.html</loc>
-  <lastmod>2019-03-26T21:26:26+00:00</lastmod>
+  <loc>https://www.jacalculei.com.br/medicina/</loc>
+  <lastmod>2019-06-07T19:56:10+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.jacalculei.com.br/odontologia.html</loc>
-  <lastmod>2019-03-26T21:26:26+00:00</lastmod>
+  <loc>https://www.jacalculei.com.br/odontologia/</loc>
+  <lastmod>2019-06-07T19:56:10+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.jacalculei.com.br/personal-trainer.html</loc>
-  <lastmod>2019-03-26T21:26:27+00:00</lastmod>
+  <loc>https://www.jacalculei.com.br/personal-trainer/</loc>
+  <lastmod>2019-06-07T19:56:10+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.jacalculei.com.br/psicologia.html</loc>
-  <lastmod>2019-03-26T21:26:27+00:00</lastmod>
+  <loc>https://www.jacalculei.com.br/psicologia/</loc>
+  <lastmod>2019-06-07T19:56:10+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.jacalculei.com.br/representacao-comercial.html</loc>
-  <lastmod>2019-03-26T21:26:27+00:00</lastmod>
+  <loc>https://www.jacalculei.com.br/representacao-comercial/</loc>
+  <lastmod>2019-06-07T19:56:10+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.jacalculei.com.br/ti-sistemas.html</loc>
-  <lastmod>2019-03-26T21:26:27+00:00</lastmod>
+  <loc>https://www.jacalculei.com.br/ti-sistemas/</loc>
+  <lastmod>2019-06-07T19:56:10+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.jacalculei.com.br/termos-condicoes-de-uso.pdf</loc>
-  <lastmod>2019-03-26T21:26:27+00:00</lastmod>
+  <loc>https://www.jacalculei.com.br/accounts/login/?next=/minhas-empresas/</loc>
+  <lastmod>2019-06-07T19:56:10+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.jacalculei.com.br/perguntas-e-respostas.html</loc>
-  <lastmod>2019-03-26T21:26:27+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://www.jacalculei.com.br/esqueci-minha-senha/</loc>
+  <lastmod>2019-06-07T19:56:10+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.jacalculei.com.br/404.html</loc>
-  <lastmod>2019-03-26T21:26:27+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://www.jacalculei.com.br/accounts/login/</loc>
+  <lastmod>2019-06-07T19:56:10+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
+
+
 </urlset>
